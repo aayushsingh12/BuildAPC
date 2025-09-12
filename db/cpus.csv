@@ -1,370 +1,1754 @@
-name,socket,clock,turbo,cores,threads,price
-AMD Ryzen 5 5600X,AM4,3.7,4.6,6,12,
-AMD Ryzen 5 5500,AM4,3.6,4.2,6,12,119.0
-AMD Ryzen 5 5600,AM4,3.5,4.4,6,12,148.98
-AMD Ryzen 5 5600G,AM4,3.9,4.4,6,12,169.0
-AMD Ryzen 5 7600,AM5,3.8,5.1,6,12,238.98
-AMD Ryzen 5 7600X,AM5,4.7,5.3,6,12,258.98
-AMD Ryzen 5 7600X3D,AM5,4.1,4.7,6,12,
-AMD Ryzen 5 8400F,AM5,4.2,4.7,6,12,189.0
-AMD Ryzen 5 8500G,AM5,4.1,5.0,6,12,199.0
-AMD Ryzen 5 8600G,AM5,4.3,5.0,6,12,248.98
-AMD Ryzen 5 9600X,AM5,3.9,5.4,6,12,339.99
-AMD Ryzen 7 5700G,AM4,3.8,4.6,8,16,229.0
-AMD Ryzen 7 5700X,AM4,3.4,4.6,8,16,209.0
-AMD Ryzen 7 5700X3D,AM4,3.0,4.1,8,16,299.0
-AMD Ryzen 7 5800X,AM4,3.8,4.7,8,16,209.0
-AMD Ryzen 7 5800X3D,AM4,3.4,4.5,8,16,419.99
-AMD Ryzen 7 7700,AM5,3.8,5.3,8,16,359.0
-AMD Ryzen 7 7700X,AM5,4.5,5.4,8,16,399.0
-AMD Ryzen 7 7800X3D,AM5,4.2,5.0,8,16,699.95
-AMD Ryzen 7 8700F,AM5,4.1,5.0,8,16,277.99
-AMD Ryzen 7 8700G,AM5,4.2,5.1,8,16,297.98
-AMD Ryzen 7 9700X,AM5,3.8,5.5,8,16,449.0
-AMD Ryzen 7 9800X3D,AM5,4.7,5.2,8,16,
-AMD Ryzen 9 5900X,AM4,3.7,4.8,12,24,319.0
-AMD Ryzen 9 5950X,AM4,3.4,4.9,16,32,309.99
-AMD Ryzen 9 7900,AM5,3.7,5.4,12,24,479.0
-AMD Ryzen 9 7900X,AM5,4.7,5.6,12,24,468.98
-AMD Ryzen 9 7900X3D,AM5,4.4,5.6,12,24,560.98
-AMD Ryzen 9 7950X,AM5,4.5,5.7,16,32,659.0
-AMD Ryzen 9 7950X3D,AM5,4.2,5.7,16,32,839.0
-AMD Ryzen 9 9900X,AM5,4.4,5.6,12,24,569.99
-AMD Ryzen 9 9900X3D,AM5,4.4,5.5,12,24,
-AMD Ryzen 9 9950X3D,AM5,4.3,5.7,16,32,
-Intel Core Ultra 5 225,1851,3.3,4.9,10,10,
-Intel Core Ultra 5 225F,1851,4.9,4.9,10,10,
-Intel Core Ultra 5 235,1851,3.4,5.0,14,14,
-Intel Core Ultra 5 245K,1851,4.2,5.2,6,6,439.0
-Intel Core Ultra 5 245KF,1851,4.2,5.2,6,6,409.0
-Intel Core Ultra 7 265K,1851,3.9,5.5,8,8,559.0
-Intel Core Ultra 7 265KF,1851,3.9,5.5,8,8,539.99
-Intel Core Ultra 9 285,1851,2.5,5.6000000000000005,24,24,
-Intel Core Ultra 9 285K,1851,3.7,5.7,8,8,
-AMD A10-6790K,FM2,4.0,4.3,4,4,
-AMD A10-7800,FM2+,3.5,3.9,2,2,
-AMD A10-7850K,FM2+,3.7,4.0,2,2,
-AMD A10-7860K,FM2+,3.6,4.0,2,2,
-AMD A10-7870K,FM2+,3.9,4.1,2,2,
-AMD A10-7890K,FM2+,4.1,4.3,2,2,
-AMD A10-9700,AM4,3.5,,4,4,43.76
-AMD A12-9800,AM4,3.8,,4,4,
-AMD A12-9800E,AM4,3.1,,4,4,
-AMD A4-5300,FM2,3.4,3.6,2,2,
-AMD A4-7300,FM2,3.8,4.0,1,1,
-AMD A6-6400K,FM2,3.9,4.1,2,2,
-AMD A6-7400K,FM2+,3.5,3.9,1,1,67.55
-AMD A6-7470K,FM2+,3.7,4.0,1,1,
-AMD A6-9500,AM4,3.5,,2,2,
-AMD A6-9500E,AM4,3.0,,2,2,
-AMD A8-6600K,FM2,3.9,4.2,4,4,
-AMD A8-7600,FM2+,3.1,3.8,2,2,106.38
-AMD A8-7650K,FM2+,3.3,3.7,2,2,
-AMD A8-7650K,FM2+,3.3,3.7,2,2,110.05
-AMD A8-7670K,FM2+,3.6,3.9,2,2,
-AMD A8-9600,AM4,3.1,,4,4,
-AMD Athlon 200GE,AM4,3.2,,2,4,94.17
-AMD Athlon 220GE,AM4,3.4,,2,4,110.4
-AMD Athlon 240GE,AM4,3.5,,2,4,98.6
-AMD Athlon 3000G,AM4,3.5,,2,4,73.37
-AMD Athlon X4 845,FM2+,3.5,3.8,2,2,
-AMD Athlon X4 860K,FM2+,3.7,4.0,2,2,
-AMD Athlon X4 860K,FM2+,3.7,4.0,2,2,
-AMD Athlon X4 870K,FM2+,3.9,4.1,2,2,
-AMD Athlon X4 880K,FM2+,4.0,4.2,2,2,
-AMD Athlon X4 950,AM4,3.5,,4,4,
-AMD FX-4300,AM3+,3.8,4.0,4,4,
-AMD FX-4350,AM3+,4.2,4.3,4,4,
-AMD FX-6300,AM3+,3.5,4.1,6,6,120.16
-AMD FX-6350,AM3+,3.9,4.2,6,6,
-AMD FX-8150,AM3+,3.6,4.2,8,8,
-AMD FX-8300,AM3+,3.3,4.2,8,8,199.07
-AMD FX-8320,AM3+,3.5,4.0,8,8,
-AMD FX-8320E,AM3+,3.2,4.0,8,8,
-AMD FX-8350,AM3+,4.0,4.2,8,8,
-AMD FX-8370,AM3+,4.0,4.3,8,8,
-AMD FX-8370,AM3+,4.0,4.3,8,8,200.39
-AMD FX-8370E,AM3+,3.3,4.3,4,4,
-AMD FX-9370,AM3+,4.4,4.7,4,4,330.01
-AMD FX-9590,AM3+,4.7,5.0,8,8,322.99
-AMD Phenom II X6 1090T,AM3,3.2,3.6,6,6,
-AMD Ryzen 3 1200,AM4,3.1,3.4,4,4,161.44
-AMD Ryzen 3 1200 AF,AM4,3.1,3.4,4,4,
-AMD Ryzen 3 1300X,AM4,3.5,3.7,4,4,110.99
-AMD Ryzen 3 2200G,AM4,3.5,3.7,4,4,139.99
-AMD Ryzen 3 3100,AM4,3.6,3.9,4,8,165.98
-AMD Ryzen 3 3200G,AM4,3.6,4.0,4,4,138.98
-AMD Ryzen 3 3300X,AM4,3.8,4.3,4,8,206.92
-AMD Ryzen 3 4100,AM4,3.8,4.0,4,8,89.0
-AMD Ryzen 5 1400,AM4,3.2,3.4,4,8,249.82
-AMD Ryzen 5 1500X,AM4,3.5,3.7,4,8,204.09
-AMD Ryzen 5 1600,AM4,3.2,3.6,6,12,178.72
-AMD Ryzen 5 1600 AF,AM4,3.2,3.6,6,12,272.02
-AMD Ryzen 5 1600X,AM4,3.6,4.0,6,12,353.28
-AMD Ryzen 5 2400G,AM4,3.6,3.9,4,8,219.99
-AMD Ryzen 5 2600,AM4,3.4,3.9,6,12,
-AMD Ryzen 5 2600,AM4,3.4,3.9,6,12,249.99
-AMD Ryzen 5 2600X,AM4,3.6,4.2,6,12,
-AMD Ryzen 5 2600X,AM4,3.6,4.1,6,12,299.31
-AMD Ryzen 5 3400G,AM4,3.7,4.2,4,8,207.99
-AMD Ryzen 5 3500X,AM4,3.6,4.1,6,6,
-AMD Ryzen 5 3600,AM4,3.6,4.2,6,12,
-AMD Ryzen 5 3600,AM4,3.6,4.2,6,12,229.95
-AMD Ryzen 5 3600X,AM4,3.8,4.4,6,12,522.29
-AMD Ryzen 5 3600XT,AM4,3.8,4.5,6,12,329.99
-AMD Ryzen 5 4500,AM4,3.6,4.1,6,12,109.0
-AMD Ryzen 5 5500GT,AM4,3.6,4.4,6,12,
-AMD Ryzen 5 5600GT,AM4,3.6,4.6,6,12,169.0
-AMD Ryzen 7 1700,AM4,3.0,3.7,8,16,501.49
-AMD Ryzen 7 1700X,AM4,3.4,3.8,8,16,587.98
-AMD Ryzen 7 1800X,AM4,3.6,4.0,8,16,598.98
-AMD Ryzen 7 2700,AM4,3.2,4.1,8,16,
-AMD Ryzen 7 2700,AM4,3.2,4.1,8,16,375.0
-AMD Ryzen 7 2700X,AM4,3.7,4.3,8,16,265.0
-AMD Ryzen 7 3700X,AM4,3.6,4.4,8,16,828.98
-AMD Ryzen 7 3800X,AM4,3.9,4.5,8,16,598.25
-AMD Ryzen 7 3800XT,AM4,3.9,4.7,8,16,389.99
-AMD Ryzen 7 5700,AM4,3.7,4.6,8,16,168.98
-AMD Ryzen 9 3900X,AM4,3.8,4.6,12,24,786.26
-AMD Ryzen 9 3900XT,AM4,3.8,4.7,12,24,
-AMD Ryzen 9 3950X,AM4,3.5,4.7,16,32,1014.08
-AMD Ryzen Threadripper 1900X,TR4,3.8,4.0,8,16,268.22
-AMD Ryzen Threadripper 1920X,TR4,3.5,4.0,12,24,391.97
-AMD Ryzen Threadripper 1950X,TR4,3.4,4.0,16,32,707.87
-AMD Ryzen Threadripper 2920X,TR4,3.5,4.3,12,24,785.27
-AMD Ryzen Threadripper 2950X,TR4,3.5,4.4,16,32,1083.17
-AMD Ryzen Threadripper 2970WX,TR4,3.0,4.2,24,48,1629.99
-AMD Ryzen Threadripper 2990WX,TR4,3.0,4.0,32,64,1099.99
-AMD Ryzen Threadripper 3960X,TRX40,3.8,4.5,24,48,1707.99
-AMD Ryzen Threadripper 3970X,TRX40,3.7,4.5,32,64,2449.99
-AMD Ryzen Threadripper 3990X,TRX40,2.9,4.3,64,128,5399.99
-AMD Ryzen Threadripper 7960X,sTR5,4.2,5.3,24,48,2199.99
-AMD Ryzen Threadripper 7970X,sTR5,4.0,5.3,32,64,3408.98
-AMD Ryzen Threadripper 7980X,sTR5,3.2,5.1,64,128,7299.99
-AMD Ryzen Threadripper Pro 3955WX,sWRX80,3.9,4.3,16,32,1349.99
-AMD Ryzen Threadripper Pro 3975WX,sWRX80,3.5,4.2,32,64,3799.99
-AMD Ryzen Threadripper Pro 3995WX,sWRX80,2.7,4.2,64,128,6849.99
-AMD Ryzen Threadripper Pro 5955WX,sWRX8,4.0,4.5,16,32,1553.04
-AMD Ryzen Threadripper Pro 5965WX,sWRX8,3.8,4.5,24,48,3399.99
-AMD Ryzen Threadripper Pro 5975WX,sWRX8,3.6,4.5,32,64,4308.98
-AMD Ryzen Threadripper Pro 5995WX,sWRX8,2.7,4.5,64,128,8608.98
-AMD Ryzen Threadripper Pro 7965WX,sTR5,4.2,5.3,24,48,3725.92
-AMD Ryzen Threadripper Pro 7975WX,sTR5,4.0,5.3,32,64,5394.19
-AMD Ryzen Threadripper Pro 7985WX,sTR5,3.2,5.1,64,128,10256.12
-AMD Ryzen Threadripper Pro 7995WX,sTR5,2.5,5.1,96,192,14999.99
-Intel 300,1700,3.9,,2,4,
-Intel Celeron G1840,1150,2.8,,2,2,65.0
-Intel Celeron G6900,1700,3.4,,2,2,
-Intel Core i3-10100,1200,3.6,4.1,4,8,
-Intel Core i3-10100F,1200,3.6,4.3,4,8,
-Intel Core i3-10105,1200,3.7,,4,8,
-Intel Core i3-10300,1200,3.7,4.2,4,8,
-Intel Core i3-10305,1200,3.8,,4,8,
-Intel Core i3-10320,1200,3.8,4.4,4,8,
-Intel Core i3-12100,1700,3.3,4.3,4,8,149.0
-Intel Core i3-12100F,1700,3.3,4.3,4,8,109.0
-Intel Core i3-13100,1700,3.4,,4,8,154.99
-Intel Core i3-13100F,1700,3.4,,4,8,109.0
-Intel Core i3-14100,1700,3.5,,4,8,159.0
-Intel Core i3-14100F,1700,3.5,,4,8,
-Intel Core i3-4130,1150,3.4,,2,4,
-Intel Core i3-4160,1150,3.6,,2,4,
-Intel Core i3-4170,1150,3.7,,2,4,
-Intel Core i3-6098P,1151,3.6,,2,4,
-Intel Core i3-6100,1151,3.7,,2,4,157.99
-Intel Core i3-6100T,1151,3.2,,2,4,174.85
-Intel Core i3-6300,1151,3.8,,2,4,189.96
-Intel Core i3-6300T,1151,3.3,,2,4,
-Intel Core i3-6320,1151,3.9,,2,4,268.31
-Intel Core i3-7100,1151,3.9,,2,4,162.5
-Intel Core i3-7100T,1151,3.4,,2,4,
-Intel Core i3-7300,1151,4.0,,2,4,208.65
-Intel Core i3-7300T,1151,3.5,,2,4,219.83
-Intel Core i3-7320,1151,4.1,,2,4,211.99
-Intel Core i3-7350K,1151,4.2,,2,4,225.49
-Intel Core i3-8100,1151,3.6,,4,4,229.97
-Intel Core i3-8300,1151,3.7,,4,4,226.1
-Intel Core i3-8350K,1151,4.0,,4,4,539.66
-Intel Core i3-9100,1151,3.6,4.2,4,4,189.78
-Intel Core i3-9100F,1151,3.6,4.2,4,4,139.19
-Intel Core i3-9300,1151,3.7,4.3,4,4,
-Intel Core i3-9320,1151,3.7,4.4,4,4,
-Intel Core i3-9350KF,1151,4.0,4.6,4,4,
-Intel Core i5-10400,1200,2.9,4.0,6,12,247.79
-Intel Core i5-10400F,1200,2.9,4.0,6,12,
-Intel Core i5-10500,1200,3.1,,6,12,
-Intel Core i5-10600,1200,3.3,,6,12,
-Intel Core i5-10600K,1200,4.1,4.8,6,12,
-Intel Core i5-10600KF,1200,4.1,4.8,6,12,
-Intel Core i5-11400,1200,2.6,,6,12,478.96
-Intel Core i5-11400F,1200,2.6,,6,12,
-Intel Core i5-11500,1200,2.7,,6,12,
-Intel Core i5-11600,1200,2.8,,6,12,
-Intel Core i5-11600K,1200,3.9,,6,12,381.51
-Intel Core i5-11600KF,1200,3.9,,6,12,
-Intel Core i5-12400,1700,2.5,4.4,6,12,149.0
-Intel Core i5-12400F,1700,2.5,4.4,6,12,199.0
-Intel Core i5-12500,1700,3.0,4.6,6,12,
-Intel Core i5-12600,1700,3.3,4.8,6,12,
-Intel Core i5-12600K,1700,3.7,4.9,6,12,249.0
-Intel Core i5-12600KF,1700,3.7,4.9,6,12,369.46
-Intel Core i5-13400,1700,2.5,,6,12,308.98
-Intel Core i5-13400F,1700,2.5,,6,12,219.0
-Intel Core i5-13500,1700,2.5,,6,12,370.54
-Intel Core i5-13600K,1700,3.5,,6,12,
-Intel Core i5-13600KF,1700,3.5,,6,12,
-Intel Core i5-14400,1700,2.5,,6,12,269.0
-Intel Core i5-14400F,1700,2.5,,6,12,219.0
-Intel Core i5-14500,1700,2.6,,6,12,329.0
-Intel Core i5-14600K,1700,3.5,,6,12,298.98
-Intel Core i5-14600KF,1700,3.5,,6,12,
-Intel Core i5-2500K,1155,3.3,3.7,4,4,
-Intel Core i5-3570K,1155,3.4,3.8,4,4,
-Intel Core i5-4460,1150,3.2,3.4,4,4,
-Intel Core i5-4590,1150,3.3,3.7,4,4,
-Intel Core i5-4670K,1150,3.4,3.8,4,4,
-Intel Core i5-4690,1150,3.5,3.9,4,4,313.72
-Intel Core i5-4690K,1150,3.5,3.9,4,4,
-Intel Core i5-5675C,1150,3.1,3.6,4,4,
-Intel Core i5-6400,1151,2.7,3.3,4,4,
-Intel Core i5-6500,1151,3.2,3.6,4,4,89.49
-Intel Core i5-6600,1151,3.3,3.9,4,4,328.99
-Intel Core i5-6600K,1151,3.5,3.9,4,4,312.26
-Intel Core i5-7400,1151,3.0,3.5,4,4,275.46
-Intel Core i5-7500,1151,3.4,3.8,4,4,364.62
-Intel Core i5-7600,1151,3.5,4.1,4,4,302.99
-Intel Core i5-7600K,1151,3.8,4.2,4,4,334.28
-Intel Core i5-7640X,2066,4.0,4.2,4,4,289.99
-Intel Core i5-8400,1151,2.8,4.0,6,6,325.0
-Intel Core i5-8500,1151,3.0,4.1,6,6,624.72
-Intel Core i5-8600,1151,3.1,4.3,6,6,308.97
-Intel Core i5-8600K,1151,3.6,4.3,6,6,606.97
-Intel Core i5-9400,1151,2.9,4.1,6,6,330.38
-Intel Core i5-9400F,1151,2.9,4.1,6,6,263.05
-Intel Core i5-9500,1151,3.0,4.4,6,6,
-Intel Core i5-9600,1151,3.1,4.6,6,6,
-Intel Core i5-9600K,1151,3.7,,6,6,239.99
-Intel Core i5-9600KF,1151,3.7,4.6,6,6,329.95
-Intel Core i7-10700,1200,2.9,,8,16,
-Intel Core i7-10700F,1200,2.9,,8,16,342.27
-Intel Core i7-10700K,1200,3.8,5.1,8,16,
-Intel Core i7-10700KF,1200,3.8,5.1,8,16,
-Intel Core i7-11700,1200,2.5,,8,16,
-Intel Core i7-11700K,1200,3.6,,8,16,555.99
-Intel Core i7-11700KF,1200,3.6,,8,16,
-Intel Core i7-12700,1700,2.1,4.9,8,16,
-Intel Core i7-12700F,1700,2.1,4.9,8,16,342.8
-Intel Core i7-12700K,1700,3.6,5.0,8,16,274.0
-Intel Core i7-12700KF,1700,3.6,5.0,8,16,389.0
-Intel Core i7-13700,1700,2.1,5.2,8,16,469.0
-Intel Core i7-13700F,1700,2.1,5.2,8,16,409.0
-Intel Core i7-13700K,1700,3.4,5.4,8,16,
-Intel Core i7-13700KF,1700,3.4,5.4,8,16,
-Intel Core i7-14700,1700,2.1,,8,16,449.0
-Intel Core i7-14700F,1700,2.1,,8,16,
-Intel Core i7-14700K,1700,3.4,5.6,8,16,509.0
-Intel Core i7-14700KF,1700,3.4,5.6,8,16,469.0
-Intel Core i7-2600K,1155,3.4,3.8,4,8,
-Intel Core i7-3770K,1155,3.5,3.9,4,8,
-Intel Core i7-4770K,1150,3.5,3.9,4,8,
-Intel Core i7-4790,1150,3.6,4.0,4,8,
-Intel Core i7-4790K,1150,4.0,4.4,4,8,
-Intel Core i7-4790K,1150,4.0,4.4,4,8,
-Intel Core i7-5775C,1150,3.3,3.7,4,8,
-Intel Core i7-5820K,2011-V3,3.3,3.6,6,12,642.9
-Intel Core i7-5930K,2011-V3,3.5,3.7,6,12,
-Intel Core i7-5960X,2011-V3,3.0,3.5,8,16,
-Intel Core i7-6700,1151,3.4,4.0,4,8,442.4
-Intel Core i7-6700K,1151,4.0,4.2,4,8,464.84
-Intel Core i7-6800K,2011-V3,3.4,3.6,6,12,596.69
-Intel Core i7-6850K,2011-V3,3.6,3.8,6,12,819.99
-Intel Core i7-6900K,2011-V3,3.2,3.7,8,16,805.7
-Intel Core i7-6950X,2011-V3,3.0,3.5,10,20,2259.99
-Intel Core i7-7700,1151,3.6,4.2,4,8,443.99
-Intel Core i7-7700K,1151,4.2,4.5,4,8,570.76
-Intel Core i7-7740X,2066,4.3,4.5,4,8,465.94
-Intel Core i7-7800X,2066,3.5,,6,12,535.49
-Intel Core i7-7820X,2066,3.6,4.5,8,16,802.65
-Intel Core i7-8086K,1151,4.0,5.0,6,12,524.99
-Intel Core i7-8700,1151,3.2,4.6,6,12,456.39
-Intel Core i7-8700K,1151,3.7,4.7,6,12,513.15
-Intel Core i7-9700K,1151,3.6,,8,8,529.99
-Intel Core i7-9700KF,1151,3.6,4.9,8,8,620.64
-Intel Core i9-10850K,1200,3.6,5.2,10,20,779.31
-Intel Core i9-10900,1200,2.8,,10,20,
-Intel Core i9-10900F,1200,2.8,,10,20,
-Intel Core i9-10900K,1200,3.7,5.3,10,20,637.95
-Intel Core i9-10900KF,1200,3.7,5.3,10,20,
-Intel Core i9-10900X,2066,3.7,4.5,10,20,
-Intel Core i9-10920X,2066,3.5,4.6,12,24,
-Intel Core i9-10940X,2066,3.3,4.6,14,28,
-Intel Core i9-10980XE,2066,3.0,4.8,18,36,
-Intel Core i9-11900,1200,2.5,,8,16,
-Intel Core i9-11900F,1200,2.5,,8,16,629.99
-Intel Core i9-11900K,1200,3.5,5.2,8,16,635.06
-Intel Core i9-11900KF,1200,3.5,,8,16,
-Intel Core i9-12900,1700,2.4,5.1,8,16,549.99
-Intel Core i9-12900F,1700,2.4,5.1,8,16,
-Intel Core i9-12900K,1700,3.2,5.2,8,16,429.0
-Intel Core i9-12900KF,1700,3.2,5.2,8,16,578.98
-Intel Core i9-12900KS,1700,3.4,,8,16,
-Intel Core i9-13900,1700,4.3,,8,16,
-Intel Core i9-13900F,1700,4.3,,8,16,
-Intel Core i9-13900K,1700,3.0,5.7,8,16,
-Intel Core i9-13900KF,1700,3.0,5.7,8,16,
-Intel Core i9-13900KS,1700,3.2,3.0,8,16,973.98
-Intel Core i9-14900,1700,2.0,,8,16,779.0
-Intel Core i9-14900F,1700,2.0,,8,16,
-Intel Core i9-14900K,1700,3.2,5.8,8,16,628.98
-Intel Core i9-14900KF,1700,3.2,5.8,8,16,
-Intel Core i9-14900KS,1700,3.2,3.0,8,16,
-Intel Core i9-7900X,2066,3.3,4.5,10,20,1476.24
-Intel Core i9-7920X,2066,2.9,4.4,12,24,1623.63
-Intel Core i9-7940X,2066,3.1,4.4,14,28,1883.06
-Intel Core i9-7960X,2066,2.8,4.4,16,32,2123.75
-Intel Core i9-7980XE,2066,2.6,4.4,18,36,2716.99
-Intel Core i9-9900K,1151,3.6,5.0,8,16,699.99
-Intel Core i9-9900KF,1151,3.6,5.0,8,16,481.79
-Intel Core i9-9900KS,1151,4.0,5.0,8,16,
-Intel Pentium G3258,1150,3.2,,2,2,
-Intel Pentium G3260,1150,3.3,,2,2,
-Intel Pentium G4400,1151,3.3,,2,2,69.0
-Intel Pentium G4500,1151,3.5,,2,2,112.95
-Intel Pentium G4520,1151,3.6,,2,2,
-Intel Pentium G4560,1151,3.5,,2,4,
-Intel Pentium G4600,1151,3.6,,2,4,152.02
-Intel Pentium G4620,1151,3.7,,2,4,
-Intel Pentium G7400,1700,3.7,,2,4,
-Intel Pentium Gold G5400,1151,3.7,,2,4,99.99
-Intel Pentium Gold G5420,1151,3.8,,2,4,
-Intel Pentium Gold G5500,1151,3.8,,2,4,135.07
-Intel Pentium Gold G5600,1151,3.9,,2,4,109.95
-Intel Xeon E3-1231 V3,1150,3.4,3.8,4,8,
-Intel Xeon E3-1241 V3,1150,3.5,3.9,4,8,
-Intel Xeon E3-1271 V3,1150,3.6,4.0,4,8,
-Intel Xeon E5-1620 V3,2011-V3,3.5,3.6,4,8,477.45
-Intel Xeon E5-1650 V3,2011-V3,3.5,3.8,6,12,
-Intel Xeon E5-1650 V4,2011-V3,3.6,4.0,6,12,
-Intel Xeon E5-2603 V3,2011-V3,1.6,,6,6,
-Intel Xeon E5-2603 V4,2011-V3,1.7,,6,6,
-Intel Xeon E5-2609 V4,2011-V3,1.7,,8,8,442.05
-Intel Xeon E5-2620 V3,2011-V3,2.4,3.2,6,12,547.99
-Intel Xeon E5-2620 V4,2011-V3,2.1,3.0,8,16,548.98
-Intel Xeon E5-2630 V3,2011-V3,2.4,3.2,8,16,
-Intel Xeon E5-2630 V4,2011-V3,2.2,3.1,10,20,942.1
-Intel Xeon E5-2640 V3,2011-V3,2.6,3.4,8,16,
-Intel Xeon E5-2640 V4,2011-V3,2.4,3.4,10,20,1329.5
-Intel Xeon E5-2650 V4,2011-V3,2.2,2.9,2,24,1623.06
-Intel Xeon E5-2660 V3,2011-V3,2.6,3.3,10,20,
-Intel Xeon E5-2660 V4,2011-V3,2.0,3.2,4,28,571.37
-Intel Xeon E5-2680 V3,2011-V3,2.5,3.3,2,24,
-Intel Xeon E5-2680 V4,2011-V3,2.4,3.3,4,28,
-Intel Xeon E5-2683 V4,2011-V3,2.1,3.0,6,32,
-Intel Xeon E5-2687W V3,2011-V3,3.1,3.5,10,20,3247.99
-Intel Xeon E5-2687W V4,2011-V3,3.0,3.5,2,24,
-Intel Xeon E5-2690 V3,2011-V3,2.6,3.5,2,24,
-Intel Xeon E5-2690 V4,2011-V3,2.6,3.5,4,28,
-Intel Xeon E5-2695 V3,2011-V3,2.3,3.3,4,28,
-Intel Xeon E5-2695 V4,2011-V3,2.1,3.3,8,36,
-Intel Xeon E5-2697 V3,2011-V3,2.6,3.6,4,28,
-Intel Xeon E5-2697 V4,2011-V3,2.3,3.6,8,36,
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NutriScan - Shopping Cart Analysis</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #0F172A 0%, #1E293B 50%, #334155 100%);
+            color: white;
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            padding: 1.5rem 2rem;
+            background: rgba(15, 23, 42, 0.9);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 1000;
+            transition: all 0.3s ease;
+        }
+
+        .navbar.scrolled {
+            padding: 1rem 2rem;
+            background: rgba(15, 23, 42, 0.95);
+        }
+
+        .logo {
+            font-size: 1.75rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #06B6D4, #3B82F6, #8B5CF6);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .logo:hover {
+            transform: scale(1.05);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2.5rem;
+            align-items: center;
+        }
+
+        .nav-link {
+            color: rgba(255, 255, 255, 0.8);
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            position: relative;
+            padding: 0.5rem 0;
+        }
+
+        .nav-link:hover, .nav-link.active {
+            color: #06B6D4;
+        }
+
+        .nav-link::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: linear-gradient(90deg, #06B6D4, #3B82F6);
+            transition: width 0.3s ease;
+        }
+
+        .nav-link:hover::after, .nav-link.active::after {
+            width: 100%;
+        }
+
+        .mobile-nav-toggle {
+            display: none;
+            flex-direction: column;
+            cursor: pointer;
+            padding: 0.5rem;
+        }
+
+        .mobile-nav-toggle span {
+            width: 25px;
+            height: 3px;
+            background: white;
+            margin: 3px 0;
+            transition: 0.3s;
+            border-radius: 2px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 6rem 2rem 2rem;
+        }
+
+        /* Cart Analysis Dashboard */
+        .dashboard-section {
+            margin-bottom: 3rem;
+            background: linear-gradient(145deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+            backdrop-filter: blur(20px);
+            border-radius: 24px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+        }
+
+        .dashboard-header {
+            background: linear-gradient(135deg, #06B6D4, #3B82F6, #8B5CF6);
+            padding: 2rem;
+            text-align: center;
+        }
+
+        .dashboard-title {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: white;
+            margin-bottom: 0.5rem;
+        }
+
+        .dashboard-subtitle {
+            color: rgba(255, 255, 255, 0.9);
+            font-size: 1.2rem;
+        }
+
+        .cart-status {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            border-radius: 12px;
+            font-weight: 700;
+            font-size: 1.1rem;
+            margin-top: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .cart-status.healthy {
+            background: rgba(16, 185, 129, 0.2);
+            color: #10B981;
+            border: 2px solid rgba(16, 185, 129, 0.5);
+        }
+
+        .cart-status.moderate {
+            background: rgba(245, 158, 11, 0.2);
+            color: #F59E0B;
+            border: 2px solid rgba(245, 158, 11, 0.5);
+        }
+
+        .cart-status.unhealthy {
+            background: rgba(239, 68, 68, 0.2);
+            color: #EF4444;
+            border: 2px solid rgba(239, 68, 68, 0.5);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            padding: 2rem;
+        }
+
+        .stat-card {
+            background: linear-gradient(145deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.05));
+            border-radius: 16px;
+            padding: 2rem;
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, #06B6D4, #3B82F6, #8B5CF6);
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        .stat-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: white;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            color: rgba(255, 255, 255, 0.8);
+            font-weight: 500;
+            font-size: 1rem;
+        }
+
+        .charts-section {
+            padding: 0 2rem 2rem;
+        }
+
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .chart-card {
+            background: linear-gradient(145deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+            border-radius: 16px;
+            padding: 2rem;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .chart-title {
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: white;
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+
+        .chart-container {
+            position: relative;
+            height: 300px;
+        }
+
+        .alerts-section {
+            background: linear-gradient(145deg, rgba(239, 68, 68, 0.1), rgba(239, 68, 68, 0.05));
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            border-radius: 16px;
+            padding: 2rem;
+            margin: 2rem;
+        }
+
+        .alerts-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #EF4444;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .alert-item {
+            background: rgba(239, 68, 68, 0.1);
+            border-left: 4px solid #EF4444;
+            padding: 1rem 1.5rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+        }
+
+        .alert-product {
+            font-weight: 600;
+            color: white;
+            margin-bottom: 0.5rem;
+        }
+
+        .alert-reason {
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 0.9rem;
+        }
+
+        .recommendations-section {
+            background: linear-gradient(145deg, rgba(16, 185, 129, 0.1), rgba(16, 185, 129, 0.05));
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            border-radius: 16px;
+            padding: 2rem;
+            margin: 2rem;
+        }
+
+        .recommendations-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #10B981;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .recommendation-item {
+            background: rgba(16, 185, 129, 0.1);
+            border-left: 4px solid #10B981;
+            padding: 1rem 1.5rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+        }
+
+        .recommendation-text {
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        .nova-breakdown {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .nova-item {
+            text-align: center;
+            padding: 1rem;
+            border-radius: 12px;
+            border: 2px solid;
+        }
+
+        .nova-item.nova-1 {
+            background: rgba(16, 185, 129, 0.1);
+            border-color: #10B981;
+            color: #10B981;
+        }
+
+        .nova-item.nova-2 {
+            background: rgba(245, 158, 11, 0.1);
+            border-color: #F59E0B;
+            color: #F59E0B;
+        }
+
+        .nova-item.nova-3 {
+            background: rgba(251, 146, 60, 0.1);
+            border-color: #FB923C;
+            color: #FB923C;
+        }
+
+        .nova-item.nova-4 {
+            background: rgba(239, 68, 68, 0.1);
+            border-color: #EF4444;
+            color: #EF4444;
+        }
+
+        .nova-count {
+            font-size: 2rem;
+            font-weight: 800;
+            display: block;
+        }
+
+        .nova-label {
+            font-size: 0.9rem;
+            font-weight: 600;
+            margin-top: 0.5rem;
+        }
+
+        .page-header {
+            text-align: center;
+            margin-bottom: 2rem;
+            position: relative;
+        }
+
+        .page-title {
+            font-size: 2.75rem;
+            font-weight: 800;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, #FFFFFF, #06B6D4);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .page-subtitle {
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 1.2rem;
+            max-width: 600px;
+            margin: 0 auto 2rem;
+            animation: fadeInUp 0.8s ease-out 0.2s backwards;
+        }
+
+        .top-clear-btn {
+            position: absolute;
+            top: 0;
+            right: 0;
+            background: linear-gradient(135deg, #EF4444, #DC2626);
+            border: none;
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 12px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            font-size: 0.95rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            box-shadow: 0 4px 12px rgba(239, 68, 68, 0.3);
+        }
+
+        .top-clear-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(239, 68, 68, 0.4);
+        }
+
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+            gap: 1rem;
+            background: linear-gradient(145deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+            backdrop-filter: blur(20px);
+            border-radius: 16px;
+            padding: 1.5rem;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .search-box {
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 12px;
+            padding: 0.75rem 1.5rem;
+            color: white;
+            width: 300px;
+            max-width: 100%;
+            backdrop-filter: blur(10px);
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: #06B6D4;
+            box-shadow: 0 0 0 2px rgba(6, 182, 212, 0.2);
+        }
+
+        .search-box::placeholder {
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .filter-buttons {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 0.75rem 1.25rem;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            background: rgba(255, 255, 255, 0.1);
+            color: rgba(255, 255, 255, 0.8);
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+
+        .filter-btn:hover, .filter-btn.active {
+            background: linear-gradient(135deg, #06B6D4, #3B82F6);
+            border-color: transparent;
+            color: white;
+            transform: translateY(-1px);
+        }
+
+        .clear-btn {
+            background: linear-gradient(135deg, #EF4444, #DC2626);
+            border: none;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 12px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+        }
+
+        .clear-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(239, 68, 68, 0.4);
+        }
+
+        .results-grid {
+            display: grid;
+            gap: 2rem;
+            grid-template-columns: 1fr;
+        }
+
+        .result-card {
+            background: linear-gradient(145deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+            backdrop-filter: blur(20px);
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            overflow: hidden;
+            transition: all 0.3s ease;
+            animation: slideIn 0.5s ease-out;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .result-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+            background: linear-gradient(145deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.06));
+        }
+
+        .result-header {
+            padding: 2rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .result-date {
+            color: rgba(255, 255, 255, 0.7);
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+
+        .result-nova {
+            padding: 0.5rem 1rem;
+            border-radius: 12px;
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: white;
+        }
+
+        .nova-1 { background: linear-gradient(135deg, #10B981, #34D399); }
+        .nova-2 { background: linear-gradient(135deg, #F59E0B, #FBBF24); }
+        .nova-3 { background: linear-gradient(135deg, #F97316, #FB923C); }
+        .nova-4 { background: linear-gradient(135deg, #EF4444, #F87171); }
+
+        .result-body {
+            padding: 2rem;
+        }
+
+        .ingredients-grid {
+            display: grid;
+            gap: 1.5rem;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        }
+
+        .ingredient-item {
+            background: linear-gradient(145deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.02));
+            border-radius: 16px;
+            padding: 1.5rem;
+            border-left: 4px solid;
+            transition: all 0.3s ease;
+        }
+
+        .ingredient-item:hover {
+            transform: translateX(4px);
+            background: linear-gradient(145deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.04));
+        }
+
+        .ingredient-item.safe { border-left-color: #10B981; }
+        .ingredient-item.caution { border-left-color: #F59E0B; }
+        .ingredient-item.warning { border-left-color: #EF4444; }
+
+        .ingredient-name {
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+            color: white;
+            font-size: 1.1rem;
+        }
+
+        .ingredient-category {
+            font-size: 0.85rem;
+            color: rgba(255, 255, 255, 0.6);
+            margin-bottom: 0.75rem;
+            font-weight: 500;
+        }
+
+        .ingredient-description {
+            font-size: 0.95rem;
+            color: rgba(255, 255, 255, 0.8);
+            margin-bottom: 1rem;
+            line-height: 1.5;
+        }
+
+        .ingredient-flags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .flag-tag {
+            background: rgba(239, 68, 68, 0.2);
+            color: #FCA5A5;
+            padding: 0.25rem 0.75rem;
+            border-radius: 6px;
+            font-size: 0.8rem;
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            font-weight: 500;
+        }
+
+        .safety-level {
+            display: inline-block;
+            padding: 0.4rem 1rem;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+
+        .safety-safe {
+            background: rgba(16, 185, 129, 0.2);
+            color: #6EE7B7;
+            border: 1px solid rgba(16, 185, 129, 0.3);
+        }
+
+        .safety-caution {
+            background: rgba(245, 158, 11, 0.2);
+            color: #FCD34D;
+            border: 1px solid rgba(245, 158, 11, 0.3);
+        }
+
+        .safety-warning {
+            background: rgba(239, 68, 68, 0.2);
+            color: #FCA5A5;
+            border: 1px solid rgba(239, 68, 68, 0.3);
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 6rem 2rem;
+            color: rgba(255, 255, 255, 0.6);
+            background: linear-gradient(145deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+            backdrop-filter: blur(20px);
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .empty-icon {
+            font-size: 4rem;
+            margin-bottom: 2rem;
+            opacity: 0.5;
+        }
+
+        .empty-message {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            font-weight: 600;
+            color: white;
+        }
+
+        .empty-sub {
+            margin-bottom: 3rem;
+            font-size: 1.1rem;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #06B6D4, #3B82F6);
+            color: white;
+            padding: 1.25rem 2.5rem;
+            border: none;
+            border-radius: 12px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 1rem;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(6, 182, 212, 0.4);
+        }
+
+        .health-notes {
+            background: linear-gradient(145deg, rgba(59, 130, 246, 0.1), rgba(59, 130, 246, 0.05));
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-top: 1.5rem;
+            color: #93C5FD;
+        }
+
+        .health-notes strong {
+            color: white;
+            font-weight: 600;
+        }
+
+        .expand-btn {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: rgba(255, 255, 255, 0.8);
+            padding: 0.75rem 1.5rem;
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            margin-top: 1.5rem;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+
+        .expand-btn:hover {
+            background: rgba(255, 255, 255, 0.15);
+            transform: translateY(-1px);
+        }
+
+        .collapsed .ingredients-grid {
+            display: none;
+        }
+
+        .collapsed .health-notes {
+            display: none;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .navbar {
+                padding: 1rem;
+            }
+
+            .nav-links {
+                display: none;
+                position: absolute;
+                top: 100%;
+                left: 0;
+                right: 0;
+                background: rgba(15, 23, 42, 0.95);
+                backdrop-filter: blur(20px);
+                flex-direction: column;
+                padding: 2rem;
+                gap: 1.5rem;
+                border-top: 1px solid rgba(255, 255, 255, 0.1);
+            }
+
+            .nav-links.active {
+                display: flex;
+            }
+
+            .mobile-nav-toggle {
+                display: flex;
+            }
+
+            .container {
+                padding: 6rem 1rem 2rem;
+            }
+
+            .page-header {
+                margin-bottom: 2rem;
+            }
+
+            .page-title {
+                font-size: 2rem;
+                margin-bottom: 0.75rem;
+            }
+
+            .page-subtitle {
+                font-size: 1rem;
+                margin-bottom: 1.5rem;
+            }
+
+            .top-clear-btn {
+                position: static;
+                margin: 1rem auto 0;
+                font-size: 0.9rem;
+                padding: 0.75rem 1.5rem;
+            }
+
+            .dashboard-title {
+                font-size: 1.8rem;
+            }
+
+            .dashboard-subtitle {
+                font-size: 1rem;
+            }
+
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 1.5rem;
+                padding: 1.5rem;
+            }
+
+            .stat-card {
+                padding: 1.5rem;
+            }
+
+            .stat-icon {
+                font-size: 2.5rem;
+                margin-bottom: 0.75rem;
+            }
+
+            .stat-number {
+                font-size: 2rem;
+            }
+
+            .stat-label {
+                font-size: 0.9rem;
+            }
+
+            .charts-section {
+                padding: 0 1.5rem 1.5rem;
+            }
+
+            .charts-grid {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+
+            .chart-card {
+                padding: 1.5rem;
+            }
+
+            .chart-title {
+                font-size: 1.2rem;
+                margin-bottom: 1rem;
+            }
+
+            .chart-container {
+                height: 250px;
+            }
+
+            .nova-breakdown {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 1rem;
+                margin-top: 1.5rem;
+            }
+
+            .nova-item {
+                padding: 1rem 0.5rem;
+            }
+
+            .nova-count {
+                font-size: 1.5rem;
+            }
+
+            .nova-label {
+                font-size: 0.8rem;
+            }
+
+            .alerts-section, .recommendations-section {
+                margin: 1.5rem;
+                padding: 1.5rem;
+            }
+
+            .alerts-title, .recommendations-title {
+                font-size: 1.3rem;
+            }
+
+            .controls {
+                flex-direction: column;
+                align-items: stretch;
+                padding: 1.25rem;
+                margin-bottom: 1.5rem;
+            }
+
+            .search-box {
+                width: 100%;
+                margin-bottom: 1rem;
+                font-size: 0.9rem;
+                padding: 0.75rem 1.25rem;
+            }
+
+            .filter-buttons {
+                justify-content: center;
+                gap: 0.5rem;
+            }
+
+            .filter-btn {
+                padding: 0.6rem 1rem;
+                font-size: 0.8rem;
+                flex: 1;
+                min-width: 60px;
+            }
+
+            .clear-btn {
+                padding: 0.6rem 1rem;
+                font-size: 0.8rem;
+                margin-top: 0.5rem;
+                width: 100%;
+            }
+
+            .ingredients-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .ingredient-item {
+                padding: 1.25rem;
+            }
+
+            .ingredient-name {
+                font-size: 1rem;
+            }
+
+            .ingredient-description {
+                font-size: 0.9rem;
+            }
+
+            .result-header, .result-body {
+                padding: 1.5rem;
+            }
+
+            .result-header {
+                flex-direction: column;
+                gap: 1rem;
+                text-align: center;
+            }
+
+            .result-date {
+                order: 2;
+            }
+
+            .result-nova {
+                order: 1;
+                align-self: center;
+            }
+
+            .cart-status {
+                font-size: 1rem;
+                padding: 0.6rem 1.25rem;
+            }
+
+            .empty-state {
+                padding: 4rem 1.5rem;
+            }
+
+            .empty-icon {
+                font-size: 3rem;
+            }
+
+            .empty-message {
+                font-size: 1.25rem;
+            }
+
+            .empty-sub {
+                font-size: 1rem;
+            }
+
+            .btn-primary {
+                padding: 1rem 2rem;
+                font-size: 0.95rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .page-title {
+                font-size: 1.75rem;
+            }
+
+            .dashboard-title {
+                font-size: 1.5rem;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+                gap: 1rem;
+            }
+
+            .filter-buttons {
+                flex-wrap: wrap;
+            }
+
+            .filter-btn {
+                flex: none;
+                min-width: 70px;
+            }
+
+            .nova-breakdown {
+                grid-template-columns: 1fr;
+            }
+
+            .chart-container {
+                height: 200px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar" id="navbar">
+        <a href="home.html" class="logo">NutriScan</a>
+        <div class="nav-links" id="navLinks">
+            <a href="home.html" class="nav-link">Home</a>
+            <a href="scan.html" class="nav-link">Scan</a>
+            <a href="results.html" class="nav-link active">Results</a>
+        </div>
+        <div class="mobile-nav-toggle" id="mobileToggle">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="page-header">
+            <button class="top-clear-btn" onclick="clearAllResults()" id="topClearBtn" style="display: none;">
+                <span>🗑️</span>
+                Clear Cart
+            </button>
+            <h1 class="page-title">Shopping Cart Analysis</h1>
+            <p class="page-subtitle">Comprehensive health analysis of your scanned products</p>
+        </div>
+
+        <!-- Cart Analysis Dashboard -->
+        <div class="dashboard-section" id="dashboardSection" style="display: none;">
+            <div class="dashboard-header">
+                <h2 class="dashboard-title">Your Cart Health Score</h2>
+                <p class="dashboard-subtitle">AI-powered analysis of your food selections</p>
+                <div class="cart-status" id="cartStatus">
+                    <span id="cartStatusIcon">🔍</span>
+                    <span id="cartStatusText">Analyzing...</span>
+                </div>
+            </div>
+
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <span class="stat-icon">📦</span>
+                    <div class="stat-number" id="totalProducts">0</div>
+                    <div class="stat-label">Products Scanned</div>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-icon">🧪</span>
+                    <div class="stat-number" id="totalIngredients">0</div>
+                    <div class="stat-label">Ingredients Analyzed</div>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-icon">⚠️</span>
+                    <div class="stat-number" id="dangerousIngredients">0</div>
+                    <div class="stat-label">Concerning Ingredients</div>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-icon">💚</span>
+                    <div class="stat-number" id="healthScore">0</div>
+                    <div class="stat-label">Health Score (/100)</div>
+                </div>
+            </div>
+
+            <div class="charts-section">
+                <div class="charts-grid">
+                    <div class="chart-card">
+                        <h3 class="chart-title">Safety Level Distribution</h3>
+                        <div class="chart-container">
+                            <canvas id="safetyChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="chart-card">
+                        <h3 class="chart-title">NOVA Processing Levels</h3>
+                        <div class="chart-container">
+                            <canvas id="novaChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="nova-breakdown">
+                    <div class="nova-item nova-1">
+                        <span class="nova-count" id="nova1Count">0</span>
+                        <div class="nova-label">NOVA 1<br>Unprocessed</div>
+                    </div>
+                    <div class="nova-item nova-2">
+                        <span class="nova-count" id="nova2Count">0</span>
+                        <div class="nova-label">NOVA 2<br>Basic Processing</div>
+                    </div>
+                    <div class="nova-item nova-3">
+                        <span class="nova-count" id="nova3Count">0</span>
+                        <div class="nova-label">NOVA 3<br>Processed</div>
+                    </div>
+                    <div class="nova-item nova-4">
+                        <span class="nova-count" id="nova4Count">0</span>
+                        <div class="nova-label">NOVA 4<br>Ultra-processed</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="alerts-section" id="alertsSection" style="display: none;">
+                <h3 class="alerts-title">
+                    <span>⚠️</span>
+                    Health Alerts
+                </h3>
+                <div id="alertsList"></div>
+            </div>
+
+            <div class="recommendations-section">
+                <h3 class="recommendations-title">
+                    <span>💡</span>
+                    Recommendations
+                </h3>
+                <div id="recommendationsList"></div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <input type="text" class="search-box" placeholder="Search ingredients or product names..." id="searchBox">
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="safe">Safe</button>
+                <button class="filter-btn" data-filter="caution">Caution</button>
+                <button class="filter-btn" data-filter="warning">Warning</button>
+            </div>
+        </div>
+
+        <div class="results-grid" id="resultsGrid">
+            <!-- Results will be populated here -->
+        </div>
+
+        <div class="empty-state" id="emptyState" style="display: none;">
+            <div class="empty-icon">📊</div>
+            <div class="empty-message">No scan results yet</div>
+            <div class="empty-sub">Start scanning food labels to see your analysis history here</div>
+            <a href="scan.html" class="btn-primary">Scan Your First Label</a>
+        </div>
+    </div>
+
+    <script>
+        let allResults = [];
+        let filteredResults = [];
+        let safetyChart, novaChart;
+
+        // Cart Analysis Data
+        let cartAnalysis = {
+            totalProducts: 0,
+            totalIngredients: 0,
+            dangerousIngredients: 0,
+            healthScore: 0,
+            safetyBreakdown: { safe: 0, caution: 0, concern: 0 },
+            novaBreakdown: { 1: 0, 2: 0, 3: 0, 4: 0 },
+            alerts: [],
+            recommendations: []
+        };
+
+        // Navbar scroll effect
+        window.addEventListener('scroll', () => {
+            const navbar = document.getElementById('navbar');
+            if (window.scrollY > 50) {
+                navbar.classList.add('scrolled');
+            } else {
+                navbar.classList.remove('scrolled');
+            }
+        });
+
+        // Mobile navigation toggle
+        const mobileToggle = document.getElementById('mobileToggle');
+        const navLinks = document.getElementById('navLinks');
+
+        mobileToggle.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+        });
+
+        document.addEventListener('click', (e) => {
+            if (!mobileToggle.contains(e.target) && !navLinks.contains(e.target)) {
+                navLinks.classList.remove('active');
+            }
+        });
+
+        // Load results on page load
+        document.addEventListener('DOMContentLoaded', loadResults);
+
+        function loadResults() {
+            const stored = localStorage.getItem('nutriscan_results');
+            if (stored) {
+                allResults = JSON.parse(stored);
+                filteredResults = [...allResults];
+                
+                // Analyze cart data
+                analyzeCart();
+                
+                // Display dashboard and results
+                displayDashboard();
+                displayResults();
+            } else {
+                showEmptyState();
+            }
+        }
+
+        function analyzeCart() {
+            // Reset analysis
+            cartAnalysis = {
+                totalProducts: allResults.length,
+                totalIngredients: 0,
+                dangerousIngredients: 0,
+                healthScore: 0,
+                safetyBreakdown: { safe: 0, caution: 0, concern: 0 },
+                novaBreakdown: { 1: 0, 2: 0, 3: 0, 4: 0 },
+                alerts: [],
+                recommendations: []
+            };
+
+            let totalSafetyScore = 0;
+            let ingredientCount = 0;
+
+            allResults.forEach(result => {
+                // Count NOVA levels
+                const nova = result.nova_group || 4;
+                cartAnalysis.novaBreakdown[nova]++;
+
+                // Analyze ingredients
+                if (result.ingredient_analysis) {
+                    result.ingredient_analysis.forEach(ingredient => {
+                        ingredientCount++;
+                        cartAnalysis.totalIngredients++;
+
+                        const safety = ingredient.safety_level || 'unknown';
+                        
+                        // Count safety levels
+                        if (safety === 'safe') {
+                            cartAnalysis.safetyBreakdown.safe++;
+                            totalSafetyScore += 100;
+                        } else if (safety === 'caution') {
+                            cartAnalysis.safetyBreakdown.caution++;
+                            totalSafetyScore += 60;
+                        } else if (safety === 'concern') {
+                            cartAnalysis.safetyBreakdown.concern++;
+                            cartAnalysis.dangerousIngredients++;
+                            totalSafetyScore += 20;
+                            
+                            // Add to alerts
+                            cartAnalysis.alerts.push({
+                                product: result.product_name || 'Unknown Product',
+                                ingredient: ingredient.name,
+                                reason: ingredient.health_impact || 'Potential health concerns identified'
+                            });
+                        }
+                    });
+                }
+            });
+
+            // Calculate overall health score
+            if (ingredientCount > 0) {
+                cartAnalysis.healthScore = Math.round(totalSafetyScore / ingredientCount);
+            }
+
+            // Generate recommendations
+            generateRecommendations();
+        }
+
+        function generateRecommendations() {
+            cartAnalysis.recommendations = [];
+
+            const { novaBreakdown, safetyBreakdown, healthScore } = cartAnalysis;
+
+            // NOVA-based recommendations
+            if (novaBreakdown[4] > novaBreakdown[1] + novaBreakdown[2]) {
+                cartAnalysis.recommendations.push(
+                    "Consider reducing ultra-processed foods (NOVA 4) and choosing more whole foods (NOVA 1-2)."
+                );
+            }
+
+            // Safety-based recommendations
+            if (safetyBreakdown.concern > 0) {
+                cartAnalysis.recommendations.push(
+                    `You have ${safetyBreakdown.concern} concerning ingredients. Consider finding alternatives for products with these ingredients.`
+                );
+            }
+
+            // Health score recommendations
+            if (healthScore < 50) {
+                cartAnalysis.recommendations.push(
+                    "Your cart has a low health score. Focus on products with fewer additives and preservatives."
+                );
+            } else if (healthScore >= 80) {
+                cartAnalysis.recommendations.push(
+                    "Great job! Your cart shows healthy food choices with minimal concerning ingredients."
+                );
+            }
+
+            // Specific recommendations
+            if (cartAnalysis.totalProducts > 10) {
+                cartAnalysis.recommendations.push(
+                    "You've scanned many products! Consider creating a favorites list of the healthiest options."
+                );
+            }
+
+            if (cartAnalysis.recommendations.length === 0) {
+                cartAnalysis.recommendations.push(
+                    "Keep scanning products to get personalized health recommendations!"
+                );
+            }
+        }
+
+        function displayDashboard() {
+            const dashboard = document.getElementById('dashboardSection');
+            const topClearBtn = document.getElementById('topClearBtn');
+            
+            if (cartAnalysis.totalProducts === 0) {
+                dashboard.style.display = 'none';
+                topClearBtn.style.display = 'none';
+                return;
+            }
+
+            dashboard.style.display = 'block';
+            topClearBtn.style.display = 'flex';
+
+            // Update stats
+            document.getElementById('totalProducts').textContent = cartAnalysis.totalProducts;
+            document.getElementById('totalIngredients').textContent = cartAnalysis.totalIngredients;
+            document.getElementById('dangerousIngredients').textContent = cartAnalysis.dangerousIngredients;
+            document.getElementById('healthScore').textContent = cartAnalysis.healthScore;
+
+            // Update NOVA breakdown
+            document.getElementById('nova1Count').textContent = cartAnalysis.novaBreakdown[1];
+            document.getElementById('nova2Count').textContent = cartAnalysis.novaBreakdown[2];
+            document.getElementById('nova3Count').textContent = cartAnalysis.novaBreakdown[3];
+            document.getElementById('nova4Count').textContent = cartAnalysis.novaBreakdown[4];
+
+            // Update cart status
+            updateCartStatus();
+
+            // Update alerts
+            displayAlerts();
+
+            // Update recommendations
+            displayRecommendations();
+
+            // Initialize charts
+            setTimeout(() => {
+                initializeCharts();
+            }, 100);
+        }
+
+        function updateCartStatus() {
+            const statusElement = document.getElementById('cartStatus');
+            const iconElement = document.getElementById('cartStatusIcon');
+            const textElement = document.getElementById('cartStatusText');
+
+            const { healthScore } = cartAnalysis;
+
+            if (healthScore >= 75) {
+                statusElement.className = 'cart-status healthy';
+                iconElement.textContent = '💚';
+                textElement.textContent = 'Healthy Cart';
+            } else if (healthScore >= 50) {
+                statusElement.className = 'cart-status moderate';
+                iconElement.textContent = '⚠️';
+                textElement.textContent = 'Moderate Cart';
+            } else {
+                statusElement.className = 'cart-status unhealthy';
+                iconElement.textContent = '🚨';
+                textElement.textContent = 'Needs Improvement';
+            }
+        }
+
+        function displayAlerts() {
+            const alertsSection = document.getElementById('alertsSection');
+            const alertsList = document.getElementById('alertsList');
+
+            if (cartAnalysis.alerts.length === 0) {
+                alertsSection.style.display = 'none';
+                return;
+            }
+
+            alertsSection.style.display = 'block';
+            alertsList.innerHTML = cartAnalysis.alerts.map(alert => `
+                <div class="alert-item">
+                    <div class="alert-product">${alert.product}</div>
+                    <div class="alert-reason">Contains <strong>${alert.ingredient}</strong>: ${alert.reason}</div>
+                </div>
+            `).join('');
+        }
+
+        function displayRecommendations() {
+            const recommendationsList = document.getElementById('recommendationsList');
+            recommendationsList.innerHTML = cartAnalysis.recommendations.map(rec => `
+                <div class="recommendation-item">
+                    <div class="recommendation-text">${rec}</div>
+                </div>
+            `).join('');
+        }
+
+        function initializeCharts() {
+            // Safety Chart
+            const safetyCtx = document.getElementById('safetyChart')?.getContext('2d');
+            if (safetyCtx && safetyChart) {
+                safetyChart.destroy();
+            }
+            
+            if (safetyCtx) {
+                safetyChart = new Chart(safetyCtx, {
+                    type: 'doughnut',
+                    data: {
+                        labels: ['Safe', 'Caution', 'Concern'],
+                        datasets: [{
+                            data: [
+                                cartAnalysis.safetyBreakdown.safe,
+                                cartAnalysis.safetyBreakdown.caution,
+                                cartAnalysis.safetyBreakdown.concern
+                            ],
+                            backgroundColor: ['#10B981', '#F59E0B', '#EF4444'],
+                            borderColor: ['#059669', '#D97706', '#DC2626'],
+                            borderWidth: 2
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                position: 'bottom',
+                                labels: {
+                                    color: 'white',
+                                    font: {
+                                        size: 12,
+                                        weight: '600'
+                                    }
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+
+            // NOVA Chart
+            const novaCtx = document.getElementById('novaChart')?.getContext('2d');
+            if (novaCtx && novaChart) {
+                novaChart.destroy();
+            }
+            
+            if (novaCtx) {
+                novaChart = new Chart(novaCtx, {
+                    type: 'bar',
+                    data: {
+                        labels: ['NOVA 1', 'NOVA 2', 'NOVA 3', 'NOVA 4'],
+                        datasets: [{
+                            label: 'Products',
+                            data: [
+                                cartAnalysis.novaBreakdown[1],
+                                cartAnalysis.novaBreakdown[2],
+                                cartAnalysis.novaBreakdown[3],
+                                cartAnalysis.novaBreakdown[4]
+                            ],
+                            backgroundColor: ['#10B981', '#F59E0B', '#FB923C', '#EF4444'],
+                            borderColor: ['#059669', '#D97706', '#EA580C', '#DC2626'],
+                            borderWidth: 2
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                display: false
+                            }
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                ticks: {
+                                    color: 'white',
+                                    font: {
+                                        size: 11
+                                    }
+                                },
+                                grid: {
+                                    color: 'rgba(255, 255, 255, 0.1)'
+                                }
+                            },
+                            x: {
+                                ticks: {
+                                    color: 'white',
+                                    font: {
+                                        size: 11,
+                                        weight: '600'
+                                    }
+                                },
+                                grid: {
+                                    color: 'rgba(255, 255, 255, 0.1)'
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+        }
+
+        function showEmptyState() {
+            document.getElementById('resultsGrid').style.display = 'none';
+            document.getElementById('emptyState').style.display = 'block';
+        }
+
+        function hideEmptyState() {
+            document.getElementById('resultsGrid').style.display = 'block';
+            document.getElementById('emptyState').style.display = 'none';
+        }
+
+        function displayResults() {
+            const grid = document.getElementById('resultsGrid');
+            
+            if (filteredResults.length === 0) {
+                showEmptyState();
+                return;
+            }
+
+            hideEmptyState();
+            
+            grid.innerHTML = filteredResults.map((result, index) => {
+                const date = new Date(result.timestamp).toLocaleDateString('en-US', {
+                    year: 'numeric',
+                    month: 'short',
+                    day: 'numeric',
+                    hour: '2-digit',
+                    minute: '2-digit'
+                });
+
+                // Handle different result types
+                const isImageScan = result.scan_type === 'image_upload';
+                const isBrandSearch = result.search_type === 'brand_search';
+                
+                // Get NOVA group
+                let novaGroup = result.nova_group || 1;
+                const novaClass = `nova-${novaGroup}`;
+                
+                // Get the display title
+                let titleText = result.product_name || 'Unnamed Product';
+                if (isBrandSearch && result.brand_name) {
+                    titleText = `Brand: ${result.brand_name}`;
+                }
+                
+                // Ensure ingredient_analysis exists
+                const ingredients = result.ingredient_analysis || [];
+                
+                return `
+                    <div class="result-card collapsed" id="card-${index}">
+                        <div class="result-header">
+                            <div>
+                                <div class="result-date">${date}</div>
+                                <div style="font-size: 1rem; color: white; margin-top: 0.5rem; font-weight: 600;">
+                                    ${titleText}
+                                </div>
+                            </div>
+                            <div class="result-nova ${novaClass}">
+                                ${novaGroup ? `NOVA ${novaGroup}` : 'N/A'}
+                            </div>
+                        </div>
+                        <div class="result-body">
+                            <div class="ingredients-grid">
+                                ${ingredients.map(ingredient => `
+                                    <div class="ingredient-item ${ingredient.safety_level || 'unknown'}">
+                                        <div class="ingredient-name">${ingredient.name}</div>
+                                        <div class="ingredient-category">${ingredient.category || 'Unknown Category'}</div>
+                                        <div class="safety-level safety-${ingredient.safety_level || 'unknown'}">
+                                            ${(ingredient.safety_level || 'UNKNOWN').toUpperCase()}
+                                        </div>
+                                        <div class="ingredient-description">${ingredient.description || 'No description available.'}</div>
+                                        ${ingredient.flags && ingredient.flags.length > 0 ? `
+                                            <div class="ingredient-flags">
+                                                ${ingredient.flags.map(flag => `
+                                                    <span class="flag-tag">${flag.type || 'Flag'}: ${flag.description || flag}</span>
+                                                `).join('')}
+                                            </div>
+                                        ` : ''}
+                                    </div>
+                                `).join('')}
+                            </div>
+                            ${result.health_notes ? `
+                                <div class="health-notes">
+                                    <strong>Health Notes:</strong> ${result.health_notes}
+                                </div>
+                            ` : ''}
+                            <button class="expand-btn" onclick="toggleExpand(${index})">
+                                <span class="expand-text">Show Details</span>
+                            </button>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        function toggleExpand(index) {
+            const card = document.getElementById(`card-${index}`);
+            const expandBtn = card.querySelector('.expand-btn .expand-text');
+            
+            if (card.classList.contains('collapsed')) {
+                card.classList.remove('collapsed');
+                expandBtn.textContent = 'Hide Details';
+            } else {
+                card.classList.add('collapsed');
+                expandBtn.textContent = 'Show Details';
+            }
+        }
+
+        // Search functionality
+        document.getElementById('searchBox').addEventListener('input', (e) => {
+            const query = e.target.value.toLowerCase();
+            
+            filteredResults = allResults.filter(result => {
+                // Search in brand name
+                if (result.brand_name && result.brand_name.toLowerCase().includes(query)) {
+                    return true;
+                }
+                
+                // Search in ingredients
+                if (result.ingredient_analysis) {
+                    return result.ingredient_analysis.some(ingredient => 
+                        ingredient.name.toLowerCase().includes(query) ||
+                        (ingredient.category && ingredient.category.toLowerCase().includes(query)) ||
+                        (ingredient.description && ingredient.description.toLowerCase().includes(query))
+                    );
+                }
+                
+                // Search in health notes
+                if (result.health_notes && result.health_notes.toLowerCase().includes(query)) {
+                    return true;
+                }
+                
+                return false;
+            });
+            
+            displayResults();
+        });
+
+        // Filter functionality
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                // Update active filter button
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                
+                const filter = btn.dataset.filter;
+                const query = document.getElementById('searchBox').value.toLowerCase();
+                
+                if (filter === 'all') {
+                    filteredResults = allResults;
+                } else {
+                    filteredResults = allResults.filter(result => {
+                        if (result.ingredient_analysis) {
+                            return result.ingredient_analysis.some(ingredient => 
+                                ingredient.safety_level === filter
+                            );
+                        }
+                        return false;
+                    });
+                }
+                
+                // Apply search filter if exists
+                if (query) {
+                    filteredResults = filteredResults.filter(result => {
+                        // Search in brand name
+                        if (result.brand_name && result.brand_name.toLowerCase().includes(query)) {
+                            return true;
+                        }
+                        
+                        // Search in ingredients
+                        if (result.ingredient_analysis) {
+                            return result.ingredient_analysis.some(ingredient => 
+                                ingredient.name.toLowerCase().includes(query) ||
+                                (ingredient.category && ingredient.category.toLowerCase().includes(query)) ||
+                                (ingredient.description && ingredient.description.toLowerCase().includes(query))
+                            );
+                        }
+                        
+                        // Search in health notes
+                        if (result.health_notes && result.health_notes.toLowerCase().includes(query)) {
+                            return true;
+                        }
+                        
+                        return false;
+                    });
+                }
+                
+                displayResults();
+            });
+        });
+
+        function clearAllResults() {
+            if (confirm('Are you sure you want to clear all scan results? This action cannot be undone.')) {
+                localStorage.removeItem('nutriscan_results');
+                allResults = [];
+                filteredResults = [];
+                
+                // Reset cart analysis
+                cartAnalysis = {
+                    totalProducts: 0,
+                    totalIngredients: 0,
+                    dangerousIngredients: 0,
+                    healthScore: 0,
+                    safetyBreakdown: { safe: 0, caution: 0, concern: 0 },
+                    novaBreakdown: { 1: 0, 2: 0, 3: 0, 4: 0 },
+                    alerts: [],
+                    recommendations: []
+                };
+                
+                // Hide dashboard, top button, and show empty state
+                document.getElementById('dashboardSection').style.display = 'none';
+                document.getElementById('topClearBtn').style.display = 'none';
+                showEmptyState();
+            }
+        }
+
+        // Function to add a new result (called from scan page)
+        function addScanResult(analysisData) {
+            const result = {
+                timestamp: Date.now(),
+                ...analysisData
+            };
+            
+            allResults.unshift(result); // Add to beginning
+            
+            // Keep only last 50 results to prevent storage overflow
+            if (allResults.length > 50) {
+                allResults = allResults.slice(0, 50);
+            }
+            
+            localStorage.setItem('nutriscan_results', JSON.stringify(allResults));
+            
+            // If we're on the results page, refresh the display
+            if (window.location.pathname.includes('results.html')) {
+                // Re-analyze cart and refresh display
+                analyzeCart();
+                displayDashboard();
+                loadResults();
+            }
+        }
+
+        // Export function for other pages to use
+        window.addScanResult = addScanResult;
+    </script>
+</body>
+</html>
